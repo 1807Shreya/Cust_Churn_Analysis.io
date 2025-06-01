@@ -1,4 +1,3 @@
-# Global_Temp_Analysis.io
 # Cust_Churn_Analysis.io
 
 # 📉 Telecom Customer Churn Analysis
